@@ -1,1 +1,1 @@
-# tf-ec2-class
+# tf-ec2-lab
